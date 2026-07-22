@@ -1,6 +1,6 @@
 # Hi, I'm Pengfei He
 
-I am an M.S. student at the University of Electronic Science and Technology of China (UESTC). My background spans C/C++, Python, Linux systems, RISC-V, embedded platforms, and communication systems. I am currently focusing on LLM inference runtimes, model serving, GPU kernels, and edge deployment.
+I am an M.S. student at the University of Electronic Science and Technology of China (UESTC). My background spans systems programming and applied AI, with hands-on experience in C/C++, Python, Linux, deep learning, and LLM inference. I am currently focusing on LLM inference runtimes, model serving and scheduling, GPU kernels, and edge deployment.
 
 ## Research Focus
 
