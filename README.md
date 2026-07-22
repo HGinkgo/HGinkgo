@@ -10,14 +10,10 @@ My current research focuses on **collaborative inference and scheduling optimiza
 
 | Project | Description |
 | --- | --- |
-| [LLM-Serve](https://github.com/HGinkgo/LLM-Serve) | A single-GPU LLM inference runtime featuring Paged KV Cache, continuous batching, chunked prefill, serving benchmarks, and EAGLE-style speculative decoding. On Qwen3-8B with a 24 GB GPU, EAGLE improved output throughput by **1.20x at batch size 1** and **1.34x at batch size 4** in the published benchmark configuration. |
-| [HunyuanOCR-ncnn](https://github.com/HGinkgo/HunyuanOCR-ncnn) | A pure C++17 inference runtime for HunyuanOCR 1.5 built with pnnx and ncnn. It implements model conversion, dynamic vision processing, prompt construction, KV-cache decoding, tokenizer post-processing, JSONL batch inference, and optional Vulkan acceleration for the vision encoder. |
-| [llm-infer-kernels](https://github.com/HGinkgo/llm-infer-kernels) | A CUDA and Triton learning repository for LLM inference operators. Current implementations cover reductions, Softmax, matrix transpose, RMSNorm, and LayerNorm, with correctness references, benchmarks, and iterative optimization notes. |
-| [riscv-memcpy-memset-opt](https://github.com/HGinkgo/riscv-memcpy-memset-opt) | Benchmark-driven `memcpy` and `memset` optimization for RV64GC using scalar unrolling, RVV 1.0, and Zicboz, evaluated with GLIBC 2.43 benchtests. |
-
-### Additional Systems Experience
-
-I have also participated in the hardware-software integration of an **airborne mobile ad hoc networking system** on a RISC-V embedded platform, covering embedded software development, platform adaptation, system integration, and communication-systems engineering.
+| [LLM-Serve](https://github.com/HGinkgo/LLM-Serve) | A single-GPU LLM inference runtime exploring Paged KV Cache, continuous batching, chunked prefill, serving benchmarks, and EAGLE-style speculative decoding. |
+| [HunyuanOCR-ncnn](https://github.com/HGinkgo/HunyuanOCR-ncnn) | A pure C++17 runtime for deploying HunyuanOCR 1.5 with pnnx and ncnn, with optional Vulkan acceleration for the vision encoder. |
+| [llm-infer-kernels](https://github.com/HGinkgo/llm-infer-kernels) | CUDA and Triton implementations of common LLM inference operators with correctness tests, benchmarks, and optimization notes. |
+| [riscv-memcpy-memset-opt](https://github.com/HGinkgo/riscv-memcpy-memset-opt) | Benchmark-driven RV64GC `memcpy` and `memset` optimizations using scalar unrolling, RVV 1.0, and Zicboz. |
 
 ## Open Source Contributions
 
