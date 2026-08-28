@@ -1,6 +1,6 @@
 # Hi, I'm Pengfei He 👋
 
-I am an M.S. student at the University of Electronic Science and Technology of China (UESTC), with a background in communication systems, systems programming, and applied AI. I work with C/C++, Python, Linux, CUDA, and C++ inference runtimes.
+I am an M.S. student at the University of Electronic Science and Technology of China (UESTC), with a background in communication systems, systems programming, and applied AI. I work with C/C++, Python, Linux, CUDA, and C++ inference runtimes. I am currently an **LLM Inference Engine Intern at Enflame Technology**.
 
 ## Research Focus
 
