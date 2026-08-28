@@ -1,12 +1,12 @@
 # Hi, I'm Pengfei He 👋
 
-I am an M.S. student at the University of Electronic Science and Technology of China (UESTC), with a background in communication systems, systems programming, and applied AI. I work with C/C++, Python, Linux, CUDA, and C++ inference runtimes. I am currently an **LLM Inference Engine Intern at Enflame Technology**.
+<p align="justify">I am an M.S. student at the University of Electronic Science and Technology of China (UESTC), with a background in communication systems, systems programming, and applied AI. I work with C/C++, Python, Linux, CUDA, and C++ inference runtimes. I am currently an <strong>LLM Inference Engine Intern at Enflame Technology</strong>. <a href="https://www.enflame-tech.com/"><img src="https://img.shields.io/badge/Enflame%20Technology-LLM%20Inference%20Engine%20Intern-E5534B?style=flat-square" alt="Enflame Technology - LLM Inference Engine Intern"></a></p>
 
 ## Research Focus
 
-My research focuses on **collaborative inference and scheduling optimization for small language models of different scales in resource-constrained edge environments**. With a communication-systems background, I am particularly interested in the system-level trade-offs among inference latency, resource utilization, communication cost, and service quality.
+<p align="justify">My research focuses on <strong>collaborative inference and scheduling optimization for small language models of different scales in resource-constrained edge environments</strong>. With a communication-systems background, I am particularly interested in the system-level trade-offs among inference latency, resource utilization, communication cost, and service quality.</p>
 
-In parallel, my engineering work focuses on LLM inference infrastructure: runtime adaptation, serving and scheduling, KV cache management, CUDA/Triton kernels, profiling, and C++ edge deployment. I am currently applying these skills to inference optimization on domestic AI accelerators.
+<p align="justify">In parallel, my engineering work focuses on LLM inference infrastructure: runtime adaptation, serving and scheduling, KV cache management, CUDA/Triton kernels, profiling, and C++ edge deployment. I am currently applying these skills to inference optimization on domestic AI accelerators.</p>
 
 ## Selected Projects
 
