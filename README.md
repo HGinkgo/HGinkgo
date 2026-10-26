@@ -6,7 +6,7 @@
 
 <p align="justify">My engineering focus is <strong>large language model inference engine development</strong>. I work on the runtime path from model execution and scheduling to KV-cache management and hardware-aware performance optimization, with an emphasis on understanding bottlenecks through source-level debugging, profiling, and reproducible benchmarks.</p>
 
-<p align="justify">My background is in communication systems, and I am currently applying systems programming and GPU optimization experience to LLM inference runtimes.</p>
+<p align="justify">I focus on systems programming and GPU optimization for LLM inference runtimes.</p>
 
 ## Selected Projects
 
