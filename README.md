@@ -4,9 +4,9 @@
 
 ## Research Focus
 
-<p align="justify">My research focuses on <strong>collaborative inference and scheduling optimization for small language models of different scales in resource-constrained edge environments</strong>. With a communication-systems background, I am particularly interested in the system-level trade-offs among inference latency, resource utilization, communication cost, and service quality.</p>
+<p align="justify">My engineering focus is <strong>large language model inference engine development</strong>. I work on the runtime path from model execution and scheduling to KV-cache management and hardware-aware performance optimization, with an emphasis on understanding bottlenecks through source-level debugging, profiling, and reproducible benchmarks.</p>
 
-<p align="justify">In parallel, my engineering work focuses on LLM inference infrastructure: runtime adaptation, serving and scheduling, KV cache management, CUDA/Triton kernels, profiling, and C++ edge deployment. I am currently applying these skills to inference optimization on domestic AI accelerators.</p>
+<p align="justify">My background is in communication systems, and I am currently applying systems programming and GPU optimization experience to LLM inference runtimes.</p>
 
 ## Selected Projects
 
@@ -22,5 +22,5 @@
 
 | Community | Contributions |
 | --- | --- |
-| <img src="https://github.com/kvcache-ai.png?size=40" width="20" alt="Mooncake logo"> **[Mooncake](https://github.com/kvcache-ai/Mooncake)** | Contributed Mooncake Store allocator benchmarking and size-class-aware allocation strategy work, including a [merged fragmentation benchmark](https://github.com/kvcache-ai/Mooncake/pull/2340) and a [size-class-aware strategy contribution](https://github.com/kvcache-ai/Mooncake/pull/2445). |
+| <img src="https://github.com/kvcache-ai.png?size=40" width="20" alt="Mooncake logo"> **[Mooncake](https://github.com/kvcache-ai/Mooncake)** | Contributed Mooncake Store allocator benchmarking work, including a [merged fragmentation benchmark](https://github.com/kvcache-ai/Mooncake/pull/2340). |
 | <img src="https://github.com/Tencent.png?size=40" width="20" alt="Tencent logo"> **[ncnn](https://github.com/Tencent/ncnn)** | Developed [HunyuanOCR-ncnn](https://github.com/HGinkgo/HunyuanOCR-ncnn) and [SeedVR2-ncnn](https://github.com/HGinkgo/SeedVR2-ncnn), community implementations for deploying Tencent models through the pnnx/ncnn toolchain. See the [HunyuanOCR report](https://github.com/Tencent/ncnn/discussions/6808) and [SeedVR2 report](https://github.com/Tencent/ncnn/discussions/7004). |
