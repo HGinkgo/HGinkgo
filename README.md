@@ -2,11 +2,11 @@
 
 <p align="justify">I am an M.S. student at the University of Electronic Science and Technology of China (UESTC), with a background in communication systems, systems programming, and applied AI. I work with C/C++, Python, Linux, CUDA, and C++ inference runtimes. I am currently an <strong>LLM Inference Engine Intern at Enflame Technology</strong>&nbsp;<a href="https://www.enflame-tech.com/"><img src="./assets/enflame-logo.svg" height="20" alt="Enflame Technology logo"></a>.</p>
 
-## Research Focus
+## Work Focus
 
-<p align="justify">My engineering focus is <strong>large language model inference engine development</strong>. I work on the runtime path from model execution and scheduling to KV-cache management and hardware-aware performance optimization, with an emphasis on understanding bottlenecks through source-level debugging, profiling, and reproducible benchmarks.</p>
+<p align="justify"><strong>LLM inference engine development</strong>, including runtime execution, scheduling, KV-cache management, and performance optimization.</p>
 
-<p align="justify">I focus on systems programming and GPU optimization for LLM inference runtimes.</p>
+<p align="justify">I work with C/C++, Python, CUDA, and inference runtimes.</p>
 
 ## Selected Projects
 
